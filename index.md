@@ -3,20 +3,37 @@
 
 # Michael J ONeill
 
-I am an Assistant Professor in the Statistics and Operations Research Department at the University of North Carolina at Chapel Hill. My research interests lie in the design, analysis and implementation of continuous, nonlinear optimization methods.
-
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
+
+I am an Assistant Professor in the Statistics and Operations Research Department at the University of North Carolina at Chapel Hill. My research interests lie in the design, analysis and implementation of continuous, nonlinear optimization methods.
+
+{%
+  include button.html
+  link="about"
+  text="About Me"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/headshot.jpg"
+  link="about"
+  title="About Me"
+  text=text
+%}
 
 Research.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Research Projects and Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -38,8 +55,8 @@ Teaching.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="teaching"
+  text="Teaching"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +67,8 @@ Teaching.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="teaching"
+  title="Teaching"
   flip=true
   style="bare"
   text=text
@@ -59,12 +76,12 @@ Teaching.
 
 {% capture text %}
 
-Students.
+Research group.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Research group."
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +93,6 @@ Students.
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Research group."
   text=text
 %}
