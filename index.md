@@ -1,7 +1,7 @@
 ---
 ---
 
-# Michael J ONeill's Homepage
+# Michael J ONeill
 
 I am an Assistant Professor in the Statistics and Operations Research Department at the University of North Carolina at Chapel Hill. My research interests lie in the design, analysis and implementation of continuous, nonlinear optimization methods.
 
