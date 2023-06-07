@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: MichaelJONeill
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Michael J O“\u0027”Neill
+subtitle: Assistant Professor
+description: I am an Assistant Professor in the Statistics and Operations Research Department at the University of North Carolina at Chapel Hill. My research interests lie in the design, analysis and implementation of continuous, nonlinear optimization methods.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@MichaelJONeill.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: mikeoneill@unc.edu
+  google-scholar: 0ipTvMcAAAAJ
   github: MichaelJONeill
-  twitter: MichaelJONeill
-  youtube: MichaelJONeill
 
 ### jekyll settings
 
