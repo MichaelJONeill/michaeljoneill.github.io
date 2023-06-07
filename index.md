@@ -28,6 +28,8 @@ I am an Assistant Professor in the Statistics and Operations Research Department
   text=text
 %}
 
+{% capture text %}
+
 Research.
 
 {%
