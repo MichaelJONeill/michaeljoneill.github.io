@@ -17,6 +17,6 @@ My research interests lie in the design, analysis and implementation of continuo
   include feature.html
   image="images/headshot.jpg"
   link="about"
-  title="About Me"
+  title=""
   text=text
 %}
