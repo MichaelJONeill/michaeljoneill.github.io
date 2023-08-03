@@ -5,16 +5,15 @@ nav:
   tooltip: Research
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My research focuses on the design, analysis and implementation of continuous, nonlinear optimization methods.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Worst-case complexity of an SQP method for nonlinear equality constrained stochastic optimization" style="rich" %}
 
 {% include section.html %}
 
