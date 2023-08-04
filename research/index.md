@@ -11,7 +11,7 @@ My research focuses on the design, analysis and implementation of continuous, no
 
 {% include section.html %}
 
-## Highlighted
+## Highlighted Publications
 
 {% include citation.html lookup="Worst-case complexity of an SQP method for nonlinear equality constrained stochastic optimization" style="rich" %}
 
