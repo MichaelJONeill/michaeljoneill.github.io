@@ -49,4 +49,4 @@ We will use Julia ([http://julialang.org/](http://julialang.org/) with JuMP ([ht
 
 ## Syllabus
 
-You can find the syllabus [here](/syllabus.pdf). Course material will be updated throughout the semester on [Canvas](https://edtech.unc.edu/service/canvas/).
+You can find the syllabus [here](./syllabus.pdf). Course material will be updated throughout the semester on [Canvas](https://edtech.unc.edu/service/canvas/).
