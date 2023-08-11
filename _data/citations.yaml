@@ -84,8 +84,8 @@
 - title: A Line-Search Descent Algorithm for Strict Saddle Functions with Complexity
     Guarantees
   authors:
-  - '[Michael J. O''Neill]'
-  - '[Stephen J. Wright]'
+  - "Michael J. O\u2019Neill"
+  - Stephen J. Wright
   publisher: Journal of Machine Learning Research
   date: ''
   link: https://jmlr.org/papers/v24/20-608.html
