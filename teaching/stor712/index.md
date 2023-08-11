@@ -52,4 +52,4 @@ This course will provide a detailed and deep treatment for commonly used methods
 
 ## Syllabus
 
-You can find the syllabus [here](/syllabus.pdf). Course material will be updated throughout the semester on [Canvas](https://edtech.unc.edu/service/canvas/).
+You can find the syllabus [here](./syllabus.pdf). Course material will be updated throughout the semester on [Canvas](https://edtech.unc.edu/service/canvas/).

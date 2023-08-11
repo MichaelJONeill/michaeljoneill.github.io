@@ -50,4 +50,4 @@ This course requires basic background on numerical linear algebra and some parts
 
 ## Syllabus
 
-The syllabus has yet to be finalized. Once it is, you can find it [here](/syllabus.pdf). Course material will be updated throughout the semester on [Canvas](https://edtech.unc.edu/service/canvas/).
+You can find the syllabus [here](./syllabus.pdf). Course material will be updated throughout the semester on [Canvas](https://edtech.unc.edu/service/canvas/).
