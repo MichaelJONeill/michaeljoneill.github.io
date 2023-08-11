@@ -11,8 +11,8 @@
   date: '2023-06-07'
   link: https://doi.org/gsjxwt
   orcid: 0000-0002-7369-4571
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/imanum/drz074
   title: A log-barrier Newton-CG method for bound constrained optimization with complexity
     guarantees
@@ -81,3 +81,13 @@
   orcid: 0000-0002-7369-4571
   plugin: orcid.py
   file: orcid.yaml
+- title: A Line-Search Descent Algorithm for Strict Saddle Functions with Complexity
+    Guarantees
+  authors:
+  - "Michael J. O\u2019Neill"
+  - Stephen J. Wright
+  publisher: Journal of Machine Learning Research
+  date: ''
+  link: https://jmlr.org/papers/v24/20-608.html
+  plugin: sources.py
+  file: sources.yaml
