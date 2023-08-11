@@ -45,7 +45,7 @@ MATH 347 (previously MATH 547) or equivalent.
 
 ## Coding
 
-We will use Julia (http://julialang.org/) with JuMP (http://www.juliaopt.org/JuMP.jl/0.18/) for implementing optimization models. IJulia notebooks (https://julialang.github.io/IJulia.jl/stable/) will also be used to organize and present our code and its output. A tutorial for installing and using Julia with JuMP will occur early in the semester.
+We will use Julia ([http://julialang.org/](http://julialang.org/) with JuMP ([http://www.juliaopt.org/JuMP.jl/0.18/](http://www.juliaopt.org/JuMP.jl/0.18/)) for implementing optimization models. IJulia notebooks ([https://julialang.github.io/IJulia.jl/stable/](https://julialang.github.io/IJulia.jl/stable/)) will also be used to organize and present our code and its output. A tutorial for installing and using Julia with JuMP will occur early in the semester.
 
 ## Syllabus
 
